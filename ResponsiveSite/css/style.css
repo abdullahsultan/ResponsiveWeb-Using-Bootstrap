@@ -1,3 +1,13 @@
 .my-container-fluid{
     background-color: #e0a800;
 }
+
+.myclus{
+    background-color: black;
+}
+.horizontal{
+    list-style: none;
+}
+.white-lines{
+    color: white;
+}
