@@ -1,5 +1,6 @@
 .my-container-fluid{
     background-color: #e0a800;
+    padding: 0px;
 }
 
 .myclus{
@@ -15,4 +16,22 @@
 {
     text-decoration: underline;
     text-decoration-color: orange;
+}
+.class_bg
+{
+    background-image: url(../images/video-sec.jpg);
+    width: 100%;
+    height: 509px;
+}
+
+.building
+{
+    background-image: url(../images/achive-bg.jpg);
+    width: 100%;
+    height: 509px;	
+}
+
+.heading{
+  margin-bottom: 170px !important;
+
 }
